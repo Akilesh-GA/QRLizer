@@ -19,11 +19,6 @@ A Flutter application built to **detect QR code phishing (quishing) attacks**. T
 | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) | Optional backend (authentication, analytics) |
 | ![API](https://img.shields.io/badge/API-URL_Security_Check-orange?style=plastic) | For checking malicious links |
 
-## 📷 Screenshots
-
-> *(Add screenshots here)*  
-> ![screenshot1](screenshots/screen1.png)  
-> ![screenshot2](screenshots/screen2.png)
 
 ## Folder Structure
 
