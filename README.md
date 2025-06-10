@@ -1,16 +1,34 @@
-# qr_reader_3
+# QR Reader 3 – Quishing Detection App
 
-A new Flutter project.
+A Flutter application built to **detect QR code phishing (quishing) attacks**. This app allows users to scan QR codes and identifies malicious URLs using a secure API. It aims to protect users from interacting with harmful QR codes commonly used in phishing attacks.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📷 Scan QR codes using the device camera
+- 🔒 Detect and classify malicious URLs (quishing)
+- 🌐 Uses an external API for real-time URL safety checks
+- ✅ Simple, user-friendly interface
+- 📱 Works on Android and iOS
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Technology | Description |
+|-----------|-------------|
+| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) | Cross-platform UI toolkit |
+| ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) | Programming language |
+| ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) | Optional backend (authentication, analytics) |
+| ![API](https://img.shields.io/badge/API-URL_Security_Check-orange?style=plastic) | For checking malicious links |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots
+
+> *(Add screenshots here)*  
+> ![screenshot1](screenshots/screen1.png)  
+> ![screenshot2](screenshots/screen2.png)
+
+## Folder Structure
+
+/lib
+  ├── main.dart
+  ├── screens/
+  ├── services/
+  └── widgets/
