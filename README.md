@@ -2,12 +2,6 @@
 
 A Flutter application built to **detect QR code phishing (quishing) attacks**. This app allows users to scan QR codes and identifies malicious URLs using a secure API. It aims to protect users from interacting with harmful QR codes commonly used in phishing attacks.
 
-## Screenshots
-
-![Screenshot1](D:\images\qr3.jpg)
-![Screenshot2](D:\images\url3.jpg)
-
-
 ## 🚀 Features
 
 - 📷 Scan QR codes using the device camera
