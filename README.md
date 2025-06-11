@@ -4,8 +4,8 @@ A Flutter application built to **detect QR code phishing (quishing) attacks**. T
 
 ## Screenshots
 
-![Screenshot1]("D:\images\qr3.jpg")
-![Screenshot2]("D:\images\url3.jpg")
+![Screenshot1](D:\images\qr3.jpg)
+![Screenshot2](D:\images\url3.jpg)
 
 
 ## 🚀 Features
